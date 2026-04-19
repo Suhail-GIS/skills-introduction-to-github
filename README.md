@@ -8,6 +8,10 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
+
+I dont know what to do here I even dont know how to work here this is not my first time but i am still dont know know eough about it 
+
+
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Suhail-GIS/skills-introduction-to-github/issues/1)
 
 ---
